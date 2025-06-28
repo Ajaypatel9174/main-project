@@ -1,0 +1,20 @@
+.containt{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 80px;
+
+}
+.form{
+    margin-top: 60px;
+    margin: 70px;
+     color: bisque;
+}
+body{
+    background-color: bisque;
+    background-image: url(seat.avif);
+}
+.btn{
+      margin-left: 120px;
+      width: 100px;
+}
